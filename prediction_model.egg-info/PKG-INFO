@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: prediction-model
+Version: 1.0.0
+Summary: Loan Prediction Model
+Home-page: https://github.com/Presydon/Loan-Predictor-MLOps.git
+Author: Victor Precious
+Author-email: presydon_class@gmail.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: PythonProgramming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: Pypi
+Requires-Python: >=3.9.0
+Description-Content-Type: text/markdown
+
+Loan Prediction Model
